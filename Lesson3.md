@@ -218,6 +218,7 @@ function draw() {
 - [ ] Create a grid of circles using a nested for loop
   - [ ] Randomise the shape and color of each circle
   - [ ] Make a chess board pattern
+  - [ ] Make a generative QR Code
 - [ ] Using the animation techniques from the previous lesson, animate many things at once
   - [ ] Raindrops falling from the sky
   - [ ] Bubbles floating up from the bottom of the screen
