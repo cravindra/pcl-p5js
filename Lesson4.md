@@ -116,6 +116,7 @@ function mouseDragged() {
 - [ ] Create a new sketch on P5 Js editor
 - [ ] Create a paint application that allows you to draw on the screen
   - [ ] Allow the user to select the color of the brush by clicking buttons
+    - [ ] Use an array and a for loop to render and generate many color options
   - [ ] Allow the user to change the size of the brush by clicking buttons
   - [ ] Allow the user to clear the screen by clicking a button
   - [ ] Allow the user to turn on/off symmetry drawing by clicking a button
