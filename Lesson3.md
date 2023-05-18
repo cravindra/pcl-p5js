@@ -1,4 +1,4 @@
-# Lesson 2: Objects, Arrays and Loops
+# Lesson 3: Objects, Arrays and Loops
 - [Lesson 2: Objects, Arrays and Loops](#lesson-2-objects-arrays-and-loops)
   - [Using arrays and loops in JavaScript](#using-arrays-and-loops-in-javascript)
     - [Code Samples](#code-samples)
